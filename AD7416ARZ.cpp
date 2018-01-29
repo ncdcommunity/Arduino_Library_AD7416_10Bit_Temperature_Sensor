@@ -12,6 +12,8 @@
 #include "Arduino.h"
 #else
 #include "WProgram.h"
+#endif
+
 #include <Wire.h>
 
 #include "AD7416ARZ.h"
